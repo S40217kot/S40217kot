@@ -6,10 +6,14 @@ I want to friend.
 
 plese folow me.
 
-## みなさんこんにちは
+扱える言語
 
-# 私はS40217kotです。
-
-わたしは友達が欲しいです。
-
-フォローしてください。
+・Python
+・Unity/C#
+・Ruby
+・Flutter/AndoroidStudio/Dart(軽く)
+・javascript
+・html
+・css(軽く)
+・java
+・php(軽く)
