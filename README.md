@@ -6,7 +6,7 @@ I want to friend.
 
 plese folow me.
 
-扱える言語
+## 扱える言語
 
 ・Python
 
