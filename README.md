@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-# I'm S40217kot
-
-I want to friend.
-
-plese folow me.
-
 ## 扱える言語
 
 ・Python
@@ -27,3 +21,7 @@ plese folow me.
 ・java/IntelliJIDEA/MinecraftForge1.16.5
 
 ・php(軽く)
+
+・node.js
+
+・next.js
