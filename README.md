@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 扱える言語
 * Python
 * Unity/C#
